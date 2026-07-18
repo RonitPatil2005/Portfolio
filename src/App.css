@@ -19,3 +19,9 @@ body{
 
     font-family: "Poppins",sans-serif;
 }
+
+@media (max-width: 768px) {
+    body {
+        background: #f7dfa6;
+    }
+}
