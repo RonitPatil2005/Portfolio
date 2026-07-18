@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+section {
+  scroll-margin-top: 90px;
+}
+
+body{
+
+    background:#F8F6F1;
+    color:#2C2C2C;
+
+    font-family: "Poppins",sans-serif;
+}
